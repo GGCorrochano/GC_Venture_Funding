@@ -1,23 +1,15 @@
 # GC Venture Funding
 
-GC Venture Funding is an application 
+GC Venture Funding is a binary classification model that utilizes a deep neural network to create a model that predicts whether applicants will be successful if funded by Alphabet Soup.
 
 # Usage
 
-GC Venture Funding intergration .......
+GC Venture Funding intergration uses a binary classifier model that will predict whether an applicant will become a successful business. 
+In order to execute a successful analysis, the following were performed:
 
-# Visualization
-
-![alt text](_Client_Acct_Addr_Blnc.png)
-![alt text](_Lane_Wage_Calc.png)
-![alt text](_Lane_Pymt.png)
-![alt text](_Ash_Wage_Calc.png)
-![alt text](_Ash_Pymt.png)
-![alt text](_Jo_Wage_Calc.png)
-![alt text](_Jo_Pymt.png)
-![alt text](_Kendall_Wage_Calc.png)
-![alt text](_Kendall_Pymt.png)
-![alt text](_Client_Acct_End_Blnc.png)
+* Preprocess data for a neural network model.
+* Use the model-fit-predict pattern to compile and evaluate a binary classification model.
+* Optimize the model.
 
 # Contributing
 
